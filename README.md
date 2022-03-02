@@ -9,8 +9,9 @@ Love ❤️ towards playing with data and python made me to transition from Mech
 
 ## **Academic Qualification**
 
-❈ ([Post Graduate program in Data Science and Engineering(Full time) - Great Lakes Institute of Management](https://olympus1.mygreatlearning.com/eportfolio/private/ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SjFjMlZ5WDJsa0lqb3hNelV3TnprMmZRLmtIM0lQN2RvNE5SRDVtLU0xcWxfemdhVGxzN2UxRXJobTBzOUxkQWdUZ1E=?pb_id=10284)
-❈ ([Bachelor's in Mechanical Engineering - College of Engineering Guindy, Anna University](https://www.linkedin.com/in/greash-k/)
+❈ [Post Graduate program in Data Science and Engineering(Full time) - Great Lakes Institute of Management](https://olympus1.mygreatlearning.com/eportfolio/private/ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SjFjMlZ5WDJsa0lqb3hNelV3TnprMmZRLmtIM0lQN2RvNE5SRDVtLU0xcWxfemdhVGxzN2UxRXJobTBzOUxkQWdUZ1E=?pb_id=10284)
+
+❈ [Bachelor's in Mechanical Engineering - College of Engineering Guindy, Anna University](https://www.linkedin.com/in/greash-k/)
 
 ## **GitHub Stats**📊
 
