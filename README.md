@@ -2,10 +2,10 @@
 
 I am a Data Science student 👨🏻‍🎓 from Great Lakes Institute of Management 🏫.
 I am from India 🇮🇳.
-I'm an aspiring Data Scientist who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in engineering, statistics, and machine learning.
+I'm an aspiring Data Scientist 👨🏻‍🎓 who enjoys connecting the dots: be it ideas from different disciplines, people from different teams👫, or applications from different industries. I have strong technical skills and an academic background in engineering👨🏻‍🏫, statistics, and machine learning.
 My passion lies in solving business problems with tailored data and algorithms and communicating complex ideas.
 
-Love ❤️ towards playing with data and python made me to transition from Mechanical engineer👨🏻‍🔧 -> Data Science📊
+Love ❤️ towards playing with data and python made me to transition from Mechanical engineer👨🏻‍🔧 -> Data Science📊.
 
 ## **Academic Qualification**
 
@@ -16,7 +16,7 @@ Love ❤️ towards playing with data and python made me to transition from Mech
 ## **GitHub Stats**📊
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Greash3007&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Greash3007&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Greash3007&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## **Tools & Technologies**
 
