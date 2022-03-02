@@ -9,9 +9,9 @@ Love ❤️ towards playing with data and python made me to transition from Mech
 
 ## **🎓 Academic Qualification**
 
-❈ [Post Graduate program in Data Science and Engineering(Full time) - Great Lakes Institute of Management](https://olympus1.mygreatlearning.com/eportfolio/private/ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SjFjMlZ5WDJsa0lqb3hNelV3TnprMmZRLmtIM0lQN2RvNE5SRDVtLU0xcWxfemdhVGxzN2UxRXJobTBzOUxkQWdUZ1E=?pb_id=10284)
+✥ [Post Graduate program in Data Science and Engineering(Full time) - Great Lakes Institute of Management](https://olympus1.mygreatlearning.com/eportfolio/private/ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SjFjMlZ5WDJsa0lqb3hNelV3TnprMmZRLmtIM0lQN2RvNE5SRDVtLU0xcWxfemdhVGxzN2UxRXJobTBzOUxkQWdUZ1E=?pb_id=10284)
 
-❈ [Bachelor's in Mechanical Engineering - College of Engineering Guindy, Anna University](https://www.linkedin.com/in/greash-k/)
+✥ [Bachelor's in Mechanical Engineering - College of Engineering Guindy, Anna University](https://www.linkedin.com/in/greash-k/)
 
 ## **📊 GitHub Stats**
 
@@ -35,19 +35,19 @@ Love ❤️ towards playing with data and python made me to transition from Mech
 
 ## **🏆 Certifications**
 
-● Certified for the course “Introduction to Tableau” – Datacamp – Jan 2022.
+✥ Certified for the course “Introduction to Tableau” – Datacamp – Jan 2022.
 
-● Certified for the skill “Python (Basic)” – HackerRank – Jan 2022.
+✥ Certified for the skill “Python (Basic)” – HackerRank – Jan 2022.
 
-● Certified for the skill “SQL (Intermediate)” – HackerRank – Nov 2021.
+✥ Certified for the skill “SQL (Intermediate)” – HackerRank – Nov 2021.
 
-● Certified for the skill “SQL (Basic)” – HackerRank – Oct 2021.
+✥ Certified for the skill “SQL (Basic)” – HackerRank – Oct 2021.
 
-● Certified for the course “Data Visualization using Tableau” – Great Learning Academy – Sep 2021.
+✥ Certified for the course “Data Visualization using Tableau” – Great Learning Academy – Sep 2021.
 
-● Certified for the course “Wind Energy” – Technical University of Denmark – May 2021.
+✥ Certified for the course “Wind Energy” – Technical University of Denmark – May 2021.
 
-● Certified for the skill “FEA using ANSYS” – Anna University – Feb 2019.
+✥ Certified for the skill “FEA using ANSYS” – Anna University – Feb 2019.
 <!--
 **Greash3007/Greash3007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
