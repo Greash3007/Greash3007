@@ -31,7 +31,7 @@ Love ❤️ towards playing with data and python made me to transition from Mech
 
 ✥ ML Techniques - **Regression, Classification, CART and Ensemble techniques**
 
-✥ Other Skills - **Exploratory Data Analysis and MS-Office**
+✥ Other Skills - **Exploratory Data Analysis, Statistics for Machine Learning and MS-Office**
 
 ## **🏆 Certifications**
 
