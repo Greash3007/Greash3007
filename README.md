@@ -20,11 +20,17 @@ Love ❤️ towards playing with data and python made me to transition from Mech
 ## **Tools & Technologies**
 
 ✥ Programming Language - **Python for Data Science**
+
 ✥ Data Processing - **NumPy and Pandas**
+
 ✥ Data Visualization - **Matplotlib, Seaborn, Plotly and Tableau**
+
 ✥ Operating System - **Windows and MacOS**
+
 ✥ Database - **MySQL**
+
 ✥ ML Techniques - **Regression, Classification, CART and Ensemble techniques**
+
 ✥ Other Skills - **Exploratory Data Analysis and MS-Office**
 <!--
 **Greash3007/Greash3007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
