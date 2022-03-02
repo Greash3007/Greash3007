@@ -14,8 +14,8 @@ Love ❤️ towards playing with data and python made me to transition from Mech
 ❈ [Bachelor's in Mechanical Engineering - College of Engineering Guindy, Anna University](https://www.linkedin.com/in/greash-k/)
 
 ## **GitHub Stats**📊
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Greash3007)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Greash3007&show_icons=true&theme=radical)
 
 ## **Tools & Technologies**
 
