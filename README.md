@@ -32,6 +32,22 @@ Love ❤️ towards playing with data and python made me to transition from Mech
 ✥ ML Techniques - **Regression, Classification, CART and Ensemble techniques**
 
 ✥ Other Skills - **Exploratory Data Analysis and MS-Office**
+
+## **🏆 Certifications**
+
+● Certified for the course “Introduction to Tableau” – Datacamp – Jan 2022.
+
+● Certified for the skill “Python (Basic)” – HackerRank – Jan 2022.
+
+● Certified for the skill “SQL (Intermediate)” – HackerRank – Nov 2021.
+
+● Certified for the skill “SQL (Basic)” – HackerRank – Oct 2021.
+
+● Certified for the course “Data Visualization using Tableau” – Great Learning Academy – Sep 2021.
+
+● Certified for the course “Wind Energy” – Technical University of Denmark – May 2021.
+
+● Certified for the skill “FEA using ANSYS” – Anna University – Feb 2019.
 <!--
 **Greash3007/Greash3007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
