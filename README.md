@@ -1,4 +1,4 @@
-# **Hi there ![github](/Users/greashkalai/Downloads/wave.gif), I'm Greash**
+# **Hi there 👋🏻, I'm Greash**
 
 I am a Data Science student 👨🏻‍🎓 from Great Lakes Institute of Management 🏫.
 I am from India 🇮🇳.
