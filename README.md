@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Greash
+#### **Hi there 👋, I'm Greash**
 
 I am a Data Science student 👨🏻‍🎓 from Great Lakes Institute of Management 🏫.
 I am from India 🇮🇳.
@@ -6,7 +6,7 @@ I'm an aspiring Data Scientist who enjoys connecting the dots: be it ideas from 
 My passion lies in solving business problems with tailored data and algorithms and communicating complex ideas.
 
 Love ❤️ towards playing with data and python made me to transition from Mechanical engineer👨🏻‍🔧 -> Data Science📊
-### GitHub Stats📊
+### **GitHub Stats**📊
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Greash3007)](https://github.com/anuraghazra/github-readme-stats)
 <!--
