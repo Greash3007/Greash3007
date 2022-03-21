@@ -29,7 +29,7 @@ Love ❤️ towards playing with data and python made me to transition from Mech
 
 ✥ Database - **MySQL**
 
-✥ ML Techniques - **Regression, Classification, CART and Ensemble techniques**
+✥ ML Techniques - **Regression, Classification, CART, Clustering and Ensemble techniques**
 
 ✥ Other Skills - **Exploratory Data Analysis, Statistics for Machine Learning and MS-Office**
 
