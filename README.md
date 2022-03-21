@@ -7,17 +7,17 @@ My passion lies in solving business problems with tailored data and algorithms a
 
 Love ❤️ towards playing with data and python made me to transition from Mechanical engineer👨🏻‍🔧 -> Data Science📊.
 
-## **🎓 Academic Qualification**
+## **🎓 ACADEMIC QUALIFICATION**
 
 ✥ [Post Graduate program in Data Science and Engineering(Full time) - Great Lakes Institute of Management](https://olympus1.mygreatlearning.com/eportfolio/private/ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SjFjMlZ5WDJsa0lqb3hNelV3TnprMmZRLmtIM0lQN2RvNE5SRDVtLU0xcWxfemdhVGxzN2UxRXJobTBzOUxkQWdUZ1E=?pb_id=10284)
 
 ✥ [Bachelor's in Mechanical Engineering - College of Engineering Guindy, Anna University](https://www.linkedin.com/in/greash-k/)
 
-## **📊 GitHub Stats**
+## **📊 GITHUB STATS**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Greash3007&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Greash3007&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## **🛠 Tools & Technologies**
+## **🛠 TOOLS & TECHNOLOGIES**
 
 ✥ Programming Language - **Python for Data Science**
 
@@ -33,7 +33,7 @@ Love ❤️ towards playing with data and python made me to transition from Mech
 
 ✥ Other Skills - **Exploratory Data Analysis, Statistics for Machine Learning and MS-Office**
 
-## **🏆 Certifications**
+## **🏆 CERTIFICATIONS**
 
 ✥ Certified for the course “Introduction to Tableau” – Datacamp – Jan 2022.
 
