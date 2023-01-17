@@ -1,8 +1,7 @@
 # **Hi there 👋🏻, I'm Greash**
 
-I am a Data Science student 👨🏻‍🎓 from Great Lakes Institute of Management 🏫.
 I am from India 🇮🇳.
-I'm an aspiring Data Scientist who enjoys connecting the dots: be it ideas from different disciplines, people from different teams👫, or applications from different industries. I have strong technical skills and an academic background in engineering👨🏻‍🏫, statistics, and machine learning.
+I'm a Data Scientist who enjoys connecting the dots: be it ideas from different disciplines, people from different teams👫, or applications from different industries. I have strong technical skills and an academic background in engineering👨🏻‍🏫, statistics, and machine learning.
 My passion lies in solving business problems with tailored data and algorithms and communicating complex ideas.
 
 Love ❤️ towards playing with data and python made me to transition from Mechanical engineer👨🏻‍🔧 -> Data Science📊.
