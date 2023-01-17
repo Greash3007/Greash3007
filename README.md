@@ -1,10 +1,10 @@
 # **Hi there 👋🏻, I'm Greash**
 
 I am from India 🇮🇳.
-I'm a Data Scientist who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in engineering👨🏻‍🏫, statistics, and machine learning.
+I'm a Data Scientist who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in engineering, statistics, and machine learning.
 My passion lies in solving business problems with tailored data and algorithms and communicating complex ideas.
 
-Love towards playing with data and python made me to transition from Mechanical engineer👨🏻‍🔧 -> Data Science📊.
+Love towards playing with data and python made me to transition from Mechanical engineer -> Data Science.
 
 ## **🎓 ACADEMIC QUALIFICATION**
 
@@ -28,11 +28,19 @@ Love towards playing with data and python made me to transition from Mechanical 
 
 ✥ Database - **MySQL**
 
-✥ ML Techniques - **Regression, Classification, CART, Clustering and Ensemble techniques**
+✥ Data Warehouse - **Snowflake**
 
-✥ Other Skills - **Exploratory Data Analysis, Statistics for Machine Learning and MS-Office**
+✥ ML Techniques - **Regression, Classification, NLP, Clustering and Ensemble techniques**
 
-## **🏆 CERTIFICATIONS**
+✥ Other Skills - **Exploratory Data Analysis, ElasticSearch, Statistics for Machine Learning and MS-Office**
+
+## **🏆 CERTIFICATION**
+
+✥ Certified for the course "Complete guide to ElasticSearch" - Udemy - Jan 2023.
+
+✥ Certified for the course "15 days of SQL: The complete SQL masterclass 2022" - Udemy - Nov 2022.
+
+✥ Certified for the course "Hands on Essentials - Data Warehouse" - Snowflake - Aug 2022.
 
 ✥ Certified for the course “Introduction to Tableau” – Datacamp – Jan 2022.
 
